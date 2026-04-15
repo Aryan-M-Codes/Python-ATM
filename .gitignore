@@ -1,3 +1,17 @@
-Atm.json
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PROJECT SPECIFIC: Your local data file
+Atm.json
